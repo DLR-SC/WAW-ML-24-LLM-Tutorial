@@ -1,6 +1,6 @@
 # Techniques for Using LLMs Effectively: An Introduction to Prompt Engineering, Retrieval Augmented Generation, and Toolformer
 
-Authors: Diaoule Diallo, Roxanne El Baff, Dominik Opitz, Peer Schütt 
+Authors: Diaoule Diallo, Roxanne El Baff, Dominik Opitz, Oliver Bensch, Peer Schütt 
 
 Corresponding Author: Peer Schütt (peer.schuett at dlr.de)
 
