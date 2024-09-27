@@ -3,7 +3,7 @@
 chroma_db_nccn
 chroma_db_*
 Papers
-#*.pptx
+*.pptx
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
