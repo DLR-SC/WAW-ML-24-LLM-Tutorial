@@ -8,7 +8,7 @@ import ast
 
 # E-Mail Setup
 SERVER = smtplib.SMTP("smtprelay.dlr.de")
-FROM_MAIL = "dominik.opitz@dlr.de"
+FROM_MAIL = "<email>"
 DISCLAIMER = "\n\n---\nDisclaimer: This is an automated e-mail sent by a Language Model."
 
 
